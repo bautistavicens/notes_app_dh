@@ -1,0 +1,15 @@
+
+[
+    {
+        "titulo": "Hacer deberes",
+        "estado": "en ejecucion"
+    },
+    {
+        "titulo": "Estudiar JavaScript",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Merendar",
+        "estado": "terminada"
+    }
+]
