@@ -1,15 +1,1 @@
-
-[
-    {
-        "titulo": "Hacer deberes",
-        "estado": "en ejecucion"
-    },
-    {
-        "titulo": "Estudiar JavaScript",
-        "estado": "pendiente"
-    },
-    {
-        "titulo": "Merendar",
-        "estado": "terminada"
-    }
-]
+[{"titulo":"Hacer deberes","estado":"en ejecucion"},{"titulo":"Estudiar JavaScript","estado":"pendiente"},{"titulo":"Merendar","estado":"terminada"},{"titulo":"Merienda","estado":"pendiente"},{"titulo":"Prepara Cena","estado":"pendiente"}]
